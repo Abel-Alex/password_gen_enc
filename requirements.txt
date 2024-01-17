@@ -1,0 +1,2 @@
+cryptography==3.4.7
+cffi==1.14.5
